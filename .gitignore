@@ -1,0 +1,15 @@
+# Local observations and potentially sensitive captures
+runs/
+.entropy/
+*.profraw
+*.profdata
+*.gcda
+*.gcno
+.coverage
+.coverage.*
+coverage.json
+coverage.xml
+lcov.info
+*.exec
+*.nettrace
+*.coverage
